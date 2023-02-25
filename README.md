@@ -8,13 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
                                     LIVE WEBSITE ON:
                                     WWW.WWW.WWW
 
-<!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@ DJANGO ADMIN CREDS @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
-                            http://127.0.0.1:8000/admin/
-
-                                ADMIN CREDENTIALS:
-                                user(email): nicci@mail.com
-                                pwd: 123456
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 

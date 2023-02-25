@@ -1,7 +1,7 @@
 # Dress-Code-Final-Project
 my final project in my python-full stack course in the John Bryce Academy. (e-commerce website)
 
-# Getting Started with Create React App and Redux
+React-Redux for frontend and Django for backend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 

@@ -85,9 +85,9 @@ To check out - go to your cart and press the Check Out button on the right.
 
         paypal checking out credentials:
         when checking out - PayPal will ask for an email and a password for payment.
-        feel free to use the following:
-            email: nicci@mail.com
-            pwd: nikol107
+        
+            
+            
 
 
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@ IMAGE UPLOADING FROM ADMIN SCREEN @@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
